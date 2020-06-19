@@ -68,6 +68,7 @@ a{
 
 .click-here {
     color: #EB5054;
+    white-space: nowrap;
 }
 
 .social-nav a{
